@@ -1,0 +1,22 @@
+.footer-margin{
+    padding-top: 1px;
+}
+.text-lg-start{
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    text-decoration: none;
+}
+.footer-img{
+    width: 100%;
+    position: relative;
+    height: 120px;
+    background-size: cover;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+.footer-logo{
+    width: 150px;
+    height: auto;
+    position: relative;
+}
